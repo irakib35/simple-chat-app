@@ -1,7 +1,8 @@
-# simple-chat-app
+# Simple Chat App
 Simple chat app with firebase and chat engine
 
 Getting Started 
+
 This project was bootstrapped with Create React App.
 
 Available Scripts
