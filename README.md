@@ -1,5 +1,5 @@
 # Simple Chat App
-Simple chat app with firebase and chat engine
+Simple chat app with firebase and chat engine using React Js
 
 Getting Started 
 
